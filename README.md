@@ -1,7 +1,7 @@
 # Airline_System_Project
 
 ## Description
-For Airlines, I've created a desktop programme that can add flights, passengers, and tickets for people. For constructing the application, I utilised MS SQL Server and.Net.I created the software to be installed on the device used by the person who books the tickets after obtaining the traveler's information. I used the form window for the entirety of my application,.
+For Airlines, I've created a desktop programme that can add flights, passengers, and tickets for people. For constructing the application, I utilised MS SQL Server and.Net.I created the software to be installed on the device used by the person who books the tickets after obtaining the traveler's information. I used the form window for the entirety of my application.
 
 ## Features 
 The Application opens with the login screen.
